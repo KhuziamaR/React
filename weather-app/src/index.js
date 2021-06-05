@@ -24,7 +24,7 @@ class App extends React.Component {
 			return (
 				<div>
 					{/* <h3>Latitude: {this.state.lat}</h3> */}
-					<h4>Error: {this.state.errorMessage}</h4>
+					<h4>Error : {this.state.errorMessage}</h4>
 					{/* <h3>Longitude: {this.state.long}</h3> */}
 				</div>
 			);
