@@ -2,9 +2,6 @@
 
 Pix is a web app that I built using ReactJS, It allows the user to search for images using the unsplashed Api for searching high quality photos!
 
-# App Demo 
-
-<img src="https://imgur.com/eIsGgsH.gif" width="40" height="40" />
 
 # Getting Started with Create React App
 
