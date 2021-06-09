@@ -4,7 +4,7 @@ Pix is a web app that I built using ReactJS, It allows the user to search for im
 
 # App Demo 
 
-![](https://imgur.com/XyYF3nd.gif)
+![](https://imgur.com/XyYF3nd)
 
 # Getting Started with Create React App
 
